@@ -2,3 +2,5 @@ WPU NUE RESOLUSI
 -konsisten untuk membuat konten 2x seminggu
 -membuat platform untuk pengelola video
 -membuat forum diskusi
+-membuat platform chat voice
+-kolaborasi dengan banyak expert
